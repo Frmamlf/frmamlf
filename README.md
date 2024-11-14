@@ -27,6 +27,7 @@
     <img src="Media/Badge/Tele.svg" alt="tele">
 <a href="https://www.instagram.com/frmamlf">
     <img src="Media/Badge/Insta.svg" alt="Insta">
+
 ---
 ### <img src="Media/Emoji/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on :
 ![pre](Media/Badge/premiere3.svg)
@@ -39,24 +40,19 @@
  ### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Flutter.svg" alt="Flutter">
-
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Py.svg" alt="Python">
-
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Dart.svg" alt="Dart">
-  </a>
-</p>
 
 ---
 ### <img src="Media/Emoji/PC.png" alt="keepintouch" width="20" height="20" /> My IDE/Editor :
 ![VS Code](Media/Badge/VSCode.svg)
 
 ---
- ### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> **Support** :
+ ### <img src="Media/Emoji/Growing Heart.png" alt="keepintouch" width="25" height="25" /> Support :
 <a href="https://buymeacoffee.com/frmamlf">
     <img src="Media/Badge/BMC.svg" alt="BMC">
-
 <a href="https://ko-fi.com/frmamlf">
     <img src="Media/Badge/Ko-fi.svg" alt="KO-Fi">
 
@@ -67,4 +63,3 @@
  <a href="https://github.com/frmamlf/frmamlf/discussions/"><img src="Media/Emoji/GUESTBOOK.gif" alt="Guest book"></a>
 </div>
 <br>
-
