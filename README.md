@@ -7,7 +7,7 @@
 ██╔══╝  ██╔══██╗                                               lemme tell u
 ╚═╝     ╚═╝  ╚═╝
 ```
-<a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University 
+<a href="https://youtu.be/LRspFpixPnI?si=mBausWSxJjzOVRED&t=58">All right, people, let's start at the beginning one last time.</a> My name is **Fares**, I study agriculture <img src="Media/Emoji/Farmer.png" alt="Farmer" width="25" height="25" /> at Mansoura University (I'll fix it in post)
 
 ---
 ### <img src="Media/Emoji/Hole.png" alt="keepintouch" width="25" height="25" /> Who's The FR? :(not ready yet)
