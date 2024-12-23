@@ -1,4 +1,4 @@
-# NOT Front-End Dev, NOT Graphic Designer, AND OFC I'M NOTCreative Something-something
+# NOT A Flutter Dev, NOT Ui/Ux designer, AND OFC I'M NOT Creative Something-something. i don't know who am i anymore 
 
 ```
 ███████╗██████╗ 
@@ -15,7 +15,7 @@
     <img src="Media/Badge/PF.svg" alt="PF">
 
 ---
-### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> Get to know me :
+### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> Get to know me (Don't):
 <a href="mailto:frmamlf@gmail.com?subject=Hello&body=How are you?"> <img src="Media/Badge/Gmail.svg" alt="Gmail"> </a>
 <a href="https://www.linkedin.com/in/frmamlf/">
     <img src="Media/Badge/Linkedin.svg" alt="Linkedin">
@@ -29,7 +29,7 @@
     <img src="Media/Badge/Insta.svg" alt="Insta">
 
 ---
-### <img src="Media/Emoji/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on :
+### <img src="Media/Emoji/Skull.png" alt="keepintouch" width="25" height="25" /> I can work on (I'm lying):
 ![pre](Media/Badge/premiere3.svg)
 ![Illustrator](Media/Badge/Ill.svg)
 ![PS](Media/Badge/photoshop3.svg)
@@ -37,7 +37,7 @@
 ![Figma](Media/Badge/Figma.svg)
 
 ---
-### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
+### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently Not learning(I can't get my shit together):
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Flutter.svg" alt="Flutter">
 <a href="https://roadmap.sh/u/frmamlf">
@@ -59,7 +59,7 @@
 ---
 <br>
 <div align="center">
-<p>Leaving<img src="Media/Emoji/Broken Heart.png" alt="Broken heart" width="25" height="25"> ? You can be my guest <img src="Media/Emoji/Down.png" alt="Hand" width="25" height="25" /> :</p>
+<p>Leaving<img src="Media/Emoji/Broken Heart.png" alt="Broken heart" width="25" height="25"> ? you made the right choice <img src="Media/Emoji/Down.png" alt="Hand" width="25" height="25" /> :</p>
  <a href="https://github.com/frmamlf/frmamlf/discussions/"><img src="Media/Emoji/GUESTBOOK.gif" alt="Guest book"></a>
 </div>
 <br>
