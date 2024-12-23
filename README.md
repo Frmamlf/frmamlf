@@ -1,4 +1,4 @@
-# Front-End Dev, Graphic Designer, Creative Something-something
+# NOT Front-End Dev, NOT Graphic Designer, AND OFC I'M NOTCreative Something-something
 
 ```
 ███████╗██████╗ 
