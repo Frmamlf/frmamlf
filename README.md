@@ -1,4 +1,4 @@
-# Front-End Dev, Graphic Designer, Creative Something-something
+# Flutter Dev, Ui/Ux designer, Creative Something-something
 
 ```
 ███████╗██████╗ 
