@@ -1,4 +1,4 @@
-# Flutter Dev, Ui/Ux designer, Creative Something-something
+# Not a Flutter Dev, Not a Ui/Ux designer, Creative Something-something
 
 ```
 ███████╗██████╗ 
