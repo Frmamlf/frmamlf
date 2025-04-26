@@ -15,7 +15,7 @@
     <img src="Media/Badge/PF.svg" alt="PF">
 
 ---
-### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> Get to know me :
+### <img src="Media/Emoji/Love Letter.png" alt="keepintouch" width="25" height="25" /> Get to know me ( telegram for pm ):
 <a href="mailto:frmamlf@gmail.com?subject=Hello&body=How are you?"> <img src="Media/Badge/Gmail.svg" alt="Gmail"> </a>
 <a href="https://www.linkedin.com/in/frmamlf/">
     <img src="Media/Badge/Linkedin.svg" alt="Linkedin">
@@ -37,7 +37,7 @@
 ![Figma](Media/Badge/Figma.svg)
 
 ---
-### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning :
+### <img src="Media/Emoji/Manpc.png" alt="Manpc" width="25" height="25" /> I'm currently learning ( i dont have time) :
 <a href="https://roadmap.sh/u/frmamlf">
     <img src="Media/Badge/Flutter.svg" alt="Flutter">
 <a href="https://roadmap.sh/u/frmamlf">
